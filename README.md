@@ -5,6 +5,7 @@ An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab
 ## Usage
 
 Install dependencies:
+hhi
 
 ```
 npm install
